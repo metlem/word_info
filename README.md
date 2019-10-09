@@ -2,7 +2,7 @@
 
 ##RUN
 
-`python3 word_info.py`
+```python3 word_info.py```
 
 ##OUTPUT 
 
